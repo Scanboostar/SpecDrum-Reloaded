@@ -10,5 +10,5 @@ N.B.2 The size of the PCB interferes with the HDMI connector in the Spectrum NEX
 
 ![alt text](https://github.com/Scanboostar/SpecDrum-Reloaded/blob/master/SpecDrumV1.02_Schematic.png?raw=true)
 
-![alt text](https://github.com/Scanboostar/SpecDrum-Reloaded/blob/master/IMG-2596P.png?raw=true)
+![alt text](https://github.com/Scanboostar/SpecDrum-Reloaded/blob/master/IMG-2597P.png?raw=true)
 Photo of the actual reproduced and tested PCB
